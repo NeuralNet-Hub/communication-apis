@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+
+# SMS Messages --------------------------------
+twilio
+
+# API -----------------------------------------
+requests
+Flask>=2.0
